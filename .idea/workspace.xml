@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution 412 problem">
-      <change afterPath="$PROJECT_DIR$/1342/1342_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1342/example_1342.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution 1342 problem">
+      <change afterPath="$PROJECT_DIR$/876/876_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/876/example_876.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1342/1342_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1342/1342_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,8 @@
     "Python tests.Python tests in 1480_test.py.executor": "Run",
     "Python tests.Python tests in 1672_test.py.executor": "Run",
     "Python tests.Python tests in 412_test.py.executor": "Run",
+    "Python tests.Python tests in 876.executor": "Run",
+    "Python tests.Python tests in 876_test.py.executor": "Run",
     "Python.1480.executor": "Run",
     "Python.example_1342.executor": "Run",
     "Python.example_1480.executor": "Run",
@@ -70,6 +73,60 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code" />
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in 876_test.py">
+    <configuration name="Python tests in 1342_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1342" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/1342/1342_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in 876" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/876" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/876&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in 876_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/876" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/876/876_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in 876_test.py" />
+        <item itemvalue="Python tests.Python tests in 1342_test.py" />
+        <item itemvalue="Python tests.Python tests in 876" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -159,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709228705095</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add, solution 1342 problem">
+      <option name="closed" value="true" />
+      <created>1709235056560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709235056560</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +233,17 @@
     <MESSAGE value="Add, more versions to run 1480 example" />
     <MESSAGE value="Add, solution 1672 problem" />
     <MESSAGE value="Add, solution 412 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add, solution 412 problem" />
+    <MESSAGE value="Add, solution 1342 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add, solution 1342 problem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1342/example_1342.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
