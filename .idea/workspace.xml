@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution 1672 problem">
-      <change afterPath="$PROJECT_DIR$/412/412_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/412/example_412.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution 412 problem">
+      <change afterPath="$PROJECT_DIR$/1342/1342_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1342/example_1342.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +52,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in 1342_test.py.executor": "Run",
     "Python tests.Python tests in 1480_test.py.executor": "Run",
     "Python tests.Python tests in 1672_test.py.executor": "Run",
     "Python tests.Python tests in 412_test.py.executor": "Run",
     "Python.1480.executor": "Run",
+    "Python.example_1342.executor": "Run",
     "Python.example_1480.executor": "Run",
     "Python.example_1672.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -149,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709227941526</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add, solution 412 problem">
+      <option name="closed" value="true" />
+      <created>1709228705095</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709228705095</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +167,7 @@
     <MESSAGE value="Update, environment" />
     <MESSAGE value="Add, more versions to run 1480 example" />
     <MESSAGE value="Add, solution 1672 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add, solution 1672 problem" />
+    <MESSAGE value="Add, solution 412 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add, solution 412 problem" />
   </component>
 </project>
