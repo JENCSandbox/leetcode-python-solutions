@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, merge sorted array" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, reorganize examples">
+      <change afterPath="$PROJECT_DIR$/2864/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2864/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2864/test_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +67,7 @@
     "Python.example_1480.executor": "Run",
     "Python.example_1672.executor": "Run",
     "Python.merge_sorted_array.executor": "Run",
+    "Python.solution.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -69,6 +75,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\arrays" />
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code" />
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
@@ -125,12 +132,12 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/squares_of_a_sorted_array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrays/squares_of_a_sorted_array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/squares_of_a_sorted_array/squares_of_a _sorted_array_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/arrays/squares_of_a_sorted_array/squares_of_a _sorted_array_test.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -140,12 +147,12 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/duplicate-zeros" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrays/duplicate-zeros" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/duplicate-zeros/test_duplicate_zeros.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/arrays/duplicate-zeros/test_duplicate_zeros.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -303,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709320927845</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add, reorganize examples">
+      <option name="closed" value="true" />
+      <created>1709321265505</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709321265505</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -319,7 +334,8 @@
     <MESSAGE value="Add sample squares of a sorted array" />
     <MESSAGE value="Add, duplicate zeros example" />
     <MESSAGE value="Add, merge sorted array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add, merge sorted array" />
+    <MESSAGE value="Add, reorganize examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add, reorganize examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
