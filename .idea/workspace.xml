@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add sample squares of a sorted array">
-      <change afterPath="$PROJECT_DIR$/duplicate-zeros/duplicate_zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicate-zeros/test_duplicate_zeros.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, duplicate zeros example">
+      <change afterPath="$PROJECT_DIR$/merge_sorted_array/merge_sorted_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_sorted_array/merge_sorted_array_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Python.example_1342.executor": "Run",
     "Python.example_1480.executor": "Run",
     "Python.example_1672.executor": "Run",
+    "Python.merge_sorted_array.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -75,7 +76,7 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_duplicate_zeros.py">
+  <component name="RunManager">
     <configuration name="Python tests in 1342" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -289,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709308878161</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add, duplicate zeros example">
+      <option name="closed" value="true" />
+      <created>1709310558277</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1709310558277</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,7 +312,8 @@
     <MESSAGE value="Add, solution for max consecutive ones problem" />
     <MESSAGE value="Add, solution for even digits counter" />
     <MESSAGE value="Add sample squares of a sorted array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add sample squares of a sorted array" />
+    <MESSAGE value="Add, duplicate zeros example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add, duplicate zeros example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
