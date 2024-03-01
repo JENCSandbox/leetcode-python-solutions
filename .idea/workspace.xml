@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution for even digits counter">
-      <change afterPath="$PROJECT_DIR$/squares_of_a_sorted_array/example_squares_of_a_sorted_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squares_of_a_sorted_array/squares_of_a _sorted_array_test.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add sample squares of a sorted array">
+      <change afterPath="$PROJECT_DIR$/duplicate-zeros/duplicate_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicate-zeros/test_duplicate_zeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,31 +50,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in 1342_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 1480_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 1672_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 412_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 876.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 876_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in squares_of_a _sorted_array_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1480.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_1342.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_1480.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_1672.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in 1342_test.py.executor": "Run",
+    "Python tests.Python tests in 1480_test.py.executor": "Run",
+    "Python tests.Python tests in 1672_test.py.executor": "Run",
+    "Python tests.Python tests in 412_test.py.executor": "Run",
+    "Python tests.Python tests in 876.executor": "Run",
+    "Python tests.Python tests in 876_test.py.executor": "Run",
+    "Python tests.Python tests in squares_of_a _sorted_array_test.py.executor": "Run",
+    "Python tests.Python tests in test_duplicate_zeros.py.executor": "Run",
+    "Python.1480.executor": "Run",
+    "Python.example_1342.executor": "Run",
+    "Python.example_1480.executor": "Run",
+    "Python.example_1672.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code" />
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in squares_of_a _sorted_array_test.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_duplicate_zeros.py">
     <configuration name="Python tests in 1342" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -102,21 +103,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/1342/1342_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in 876" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="leet-code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/876" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/876&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -150,13 +136,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_duplicate_zeros.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/duplicate-zeros" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/duplicate-zeros/test_duplicate_zeros.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_duplicate_zeros.py" />
         <item itemvalue="Python tests.Python tests in squares_of_a _sorted_array_test.py" />
         <item itemvalue="Python tests.Python tests in 1342_test.py" />
         <item itemvalue="Python tests.Python tests in 1342" />
         <item itemvalue="Python tests.Python tests in 876_test.py" />
-        <item itemvalue="Python tests.Python tests in 876" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709255735870</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add sample squares of a sorted array">
+      <option name="closed" value="true" />
+      <created>1709308878161</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709308878161</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,7 +302,8 @@
     <MESSAGE value="Add, solution 383 problem" />
     <MESSAGE value="Add, solution for max consecutive ones problem" />
     <MESSAGE value="Add, solution for even digits counter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add, solution for even digits counter" />
+    <MESSAGE value="Add sample squares of a sorted array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sample squares of a sorted array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
