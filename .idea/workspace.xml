@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution for 2865">
-      <change afterPath="$PROJECT_DIR$/2798/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2798/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/948/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/948/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/948/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/948/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,34 +46,42 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2d1YMUW9J0G2pboif3I8djCBDJ4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in 1342_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 1480_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 1672_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 412_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 876.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 876_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in merge_sorted_array_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in squares_of_a _sorted_array_test.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_duplicate_zeros.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_solution.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1480.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_1342.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_1480.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example_1672.executor&quot;: &quot;Run&quot;,
-    &quot;Python.merge_sorted_array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in 1342_test.py.executor": "Run",
+    "Python tests.Python tests in 1480_test.py.executor": "Run",
+    "Python tests.Python tests in 1672_test.py.executor": "Run",
+    "Python tests.Python tests in 412_test.py.executor": "Run",
+    "Python tests.Python tests in 876.executor": "Run",
+    "Python tests.Python tests in 876_test.py.executor": "Run",
+    "Python tests.Python tests in merge_sorted_array_test.py.executor": "Run",
+    "Python tests.Python tests in squares_of_a _sorted_array_test.py.executor": "Run",
+    "Python tests.Python tests in test_duplicate_zeros.py.executor": "Run",
+    "Python tests.Python tests in test_solution.py.executor": "Run",
+    "Python.1480.executor": "Run",
+    "Python.example_1342.executor": "Run",
+    "Python.example_1480.executor": "Run",
+    "Python.example_1672.executor": "Run",
+    "Python.merge_sorted_array.executor": "Run",
+    "Python.solution (1).executor": "Run",
+    "Python.solution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Markdown"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\arrays" />
@@ -82,7 +89,29 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution">
+  <component name="RunManager" selected="Python.solution (1)">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/58" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/58/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -103,21 +132,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in 1342" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="leet-code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1342" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/1342&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in 1342_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -167,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python tests.Python tests in squares_of_a _sorted_array_test.py" />
         <item itemvalue="Python tests.Python tests in test_duplicate_zeros.py" />
         <item itemvalue="Python tests.Python tests in 1342_test.py" />
-        <item itemvalue="Python tests.Python tests in 1342" />
       </list>
     </recent_temporary>
   </component>
