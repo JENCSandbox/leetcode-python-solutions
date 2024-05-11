@@ -4,12 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution for 3">
-      <change afterPath="$PROJECT_DIR$/4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/solution_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/READEME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/main.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="Add, solution for 2,4,5">
+      <change afterPath="$PROJECT_DIR$/6 - Zigzag Conversion/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6 - Zigzag Conversion/solution2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 - String to Integer (atoi)/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 - Add Two Numbers/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 - Longest Substring Without Repeating Characters/Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/3 - Longest Substring Without Repeating Characters/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/4 - Median of Two Sorted Arrays/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/solution_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4 - Median of Two Sorted Arrays/solution_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/412/412_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/412/412_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/5 - Longest Palindromic Substring/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/7/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/876/876_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/876/876_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/duplicate-zeros/duplicate_zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/duplicate-zeros/duplicate_zeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/max-consecutives-ones/max_consecutive_ones.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/max-consecutives-ones/max_consecutive_ones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/merge_sorted_array/merge_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/merge_sorted_array/merge_sorted_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/squares_of_a_sorted_array/example_squares_of_a_sorted_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/squares_of_a_sorted_array/example_squares_of_a_sorted_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,46 +66,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in 1342_test.py.executor": "Run",
-    "Python tests.Python tests in 1480_test.py.executor": "Run",
-    "Python tests.Python tests in 1672_test.py.executor": "Run",
-    "Python tests.Python tests in 412_test.py.executor": "Run",
-    "Python tests.Python tests in 876.executor": "Run",
-    "Python tests.Python tests in 876_test.py.executor": "Run",
-    "Python tests.Python tests in merge_sorted_array_test.py.executor": "Run",
-    "Python tests.Python tests in squares_of_a _sorted_array_test.py.executor": "Run",
-    "Python tests.Python tests in test_duplicate_zeros.py.executor": "Run",
-    "Python tests.Python tests in test_solution.py.executor": "Run",
-    "Python.1480.executor": "Run",
-    "Python.Solution.executor": "Run",
-    "Python.example_1342.executor": "Run",
-    "Python.example_1480.executor": "Run",
-    "Python.example_1672.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.merge_sorted_array.executor": "Run",
-    "Python.solution (1).executor": "Run",
-    "Python.solution (2).executor": "Run",
-    "Python.solution.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in 1342_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 1480_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 1672_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 412_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 876.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 876_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in merge_sorted_array_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in squares_of_a _sorted_array_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_duplicate_zeros.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_solution.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1480.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_1342.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_1480.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example_1672.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_sorted_array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution_4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Markdown"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Markdown&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\arrays" />
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code" />
+      <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\arrays" />
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.solution (1)">
     <configuration name="Solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -147,33 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/58" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 - Zigzag Conversion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/58/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leet-code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1503" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1503/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 - Zigzag Conversion/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +182,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2865" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2865/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/solution_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Solution" />
-        <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
+        <item itemvalue="Python.solution_4" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712014066684</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add, solution for 2,4,5">
+      <option name="closed" value="true" />
+      <created>1715444521676</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715444521676</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -428,7 +449,8 @@
     <MESSAGE value="Add, solution for 58" />
     <MESSAGE value="Add, solution for 1503" />
     <MESSAGE value="Add, solution for 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add, solution for 3" />
+    <MESSAGE value="Add, solution for 2,4,5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add, solution for 2,4,5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

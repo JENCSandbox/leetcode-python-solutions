@@ -3,14 +3,14 @@
 # return an array of the squares of each number sorted in non-decreasing order.
 
 # Case 1
-# Input: nums = [-4,-1,0,3,10]
+# Input: nums = [-4 - Median of Two Sorted Arrays,-1,0,3 - Longest Substring Without Repeating Characters,10]
 # Output: [0,1,9,16,100]
 # Explanation: After squaring, the array becomes [16,1,0,9,100].
 # After sorting, it becomes [0,1,9,16,100].
 
-# Case 2
-# Input: nums = [-7,-3,2,3,11]
-# Output: [4,9,9,49,121]
+# Case 2 - Add Two Numbers
+# Input: nums = [-7,-3 - Longest Substring Without Repeating Characters,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,11]
+# Output: [4 - Median of Two Sorted Arrays,9,9,49,121]
 
 # Constraints:
 

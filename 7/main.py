@@ -1,6 +1,6 @@
 class Solution(object):
     def int_to_inverted_list(self, x):
-        # -2 147 483 647 to 2 147 483 647
+        # -2 - Add Two Numbers 147 483 647 to 2 - Add Two Numbers 147 483 647
         list_result = []
         temp = x
         while temp > 0:
