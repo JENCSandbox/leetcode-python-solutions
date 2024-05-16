@@ -39,7 +39,7 @@ class Solution(object):
                 l = i + 1
 
 solution = Solution()
-#print(solution.findMedianSortedArrays([1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays,5 - Longest Palindromic Substring,6,7,8],[1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays]))
-#print(solution.findMedianSortedArrays([1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays,5 - Longest Palindromic Substring,6,7],[1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays]))
+#print(solution.findMedianSortedArrays([1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays,5 - Longest Palindromic Substring,6,7 - Reverse Integer,8],[1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays]))
+#print(solution.findMedianSortedArrays([1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays,5 - Longest Palindromic Substring,6,7 - Reverse Integer],[1,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,4 - Median of Two Sorted Arrays]))
 print(solution.findMedianSortedArrays([3,4],[1,2]))
 print(solution.findMedianSortedArrays([1,2],[3,4]))

@@ -9,7 +9,7 @@
 # After sorting, it becomes [0,1,9,16,100].
 
 # Case 2 - Add Two Numbers
-# Input: nums = [-7,-3 - Longest Substring Without Repeating Characters,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,11]
+# Input: nums = [-7 - Reverse Integer,-3 - Longest Substring Without Repeating Characters,2 - Add Two Numbers,3 - Longest Substring Without Repeating Characters,11]
 # Output: [4 - Median of Two Sorted Arrays,9,9,49,121]
 
 # Constraints:
