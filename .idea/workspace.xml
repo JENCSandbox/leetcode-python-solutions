@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 374">
-      <change afterPath="$PROJECT_DIR$/74 - Search a 2D Matrix/solution.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 74">
+      <change afterPath="$PROJECT_DIR$/1 - Two Sum/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 - Integer to Roman/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - Roman to Integer/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Longest Common Prefix/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - 3Sum/other-solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - 3Sum/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +77,9 @@
     &quot;Python.merge_sorted_array.executor&quot;: &quot;Run&quot;,
     &quot;Python.solution (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.solution (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution (5).executor&quot;: &quot;Run&quot;,
     &quot;Python.solution.executor&quot;: &quot;Run&quot;,
     &quot;Python.solution_4.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -91,29 +99,7 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (2)">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leet-code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.solution (5)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -158,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12 - Integer to Roman" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12 - Integer to Roman/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +175,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 - Two Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4/solution_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 - Two Sum/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15 - 3Sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15 - 3Sum/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (5)" />
+        <item itemvalue="Python.solution (4)" />
+        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution" />
-        <item itemvalue="Python.solution_4" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +452,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715961341371</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add, 74">
+      <option name="closed" value="true" />
+      <created>1716124877306</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716124877306</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -470,7 +486,8 @@
     <MESSAGE value="renamed folder" />
     <MESSAGE value="add, 10,11,121,973" />
     <MESSAGE value="add, 374" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 374" />
+    <MESSAGE value="add, 74" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 74" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
