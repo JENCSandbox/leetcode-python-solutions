@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 2206">
-      <change afterPath="$PROJECT_DIR$/2181 - Merge Nodes in Between Zeros/Solution.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 2181">
+      <change afterPath="$PROJECT_DIR$/2124 - Check if All A's Appears Before All B's/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -494,11 +495,18 @@
       <option name="project" value="LOCAL" />
       <updated>1716563738211</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="add, 2181">
+      <option name="closed" value="true" />
+      <created>1716564694725</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716564694725</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add, more versions to run 1480 example" />
     <MESSAGE value="Add, solution 1672 problem" />
     <MESSAGE value="Add, solution 412 problem" />
     <MESSAGE value="Add, solution 1342 problem" />
@@ -523,7 +531,8 @@
     <MESSAGE value="add, 2259" />
     <MESSAGE value="add, 2208" />
     <MESSAGE value="add, 2206" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 2206" />
+    <MESSAGE value="add, 2181" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 2181" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
