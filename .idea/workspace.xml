@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 2259">
-      <change afterPath="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum/solution_efficient.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 2208">
+      <change afterPath="$PROJECT_DIR$/2206 - Divide Array Into Equal Pairs/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -480,11 +479,18 @@
       <option name="project" value="LOCAL" />
       <updated>1716518517766</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add, 2208">
+      <option name="closed" value="true" />
+      <created>1716562583200</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716562583200</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added, 1480 solution with unit test basic." />
     <MESSAGE value="Update, environment" />
     <MESSAGE value="Add, more versions to run 1480 example" />
     <MESSAGE value="Add, solution 1672 problem" />
@@ -509,7 +515,8 @@
     <MESSAGE value="add, 74" />
     <MESSAGE value="add, 1, 12, 13, 14, 15" />
     <MESSAGE value="add, 2259" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 2259" />
+    <MESSAGE value="add, 2208" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 2208" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
