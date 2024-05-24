@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 1, 12, 13, 14, 15">
-      <change afterPath="$PROJECT_DIR$/2259 - Remove Digit From Number to Maximize Result/solution.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 2259">
+      <change afterPath="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum/solution_efficient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +95,8 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution">
-    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.solution (1)">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 - Regular Expression Matching" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 - Regular Expression Matching/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
-        <item itemvalue="Python.solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +464,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716481679993</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add, 2259">
+      <option name="closed" value="true" />
+      <created>1716518271583</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716518271583</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add, 2259">
+      <option name="closed" value="true" />
+      <created>1716518517766</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716518517766</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -491,7 +508,8 @@
     <MESSAGE value="add, 374" />
     <MESSAGE value="add, 74" />
     <MESSAGE value="add, 1, 12, 13, 14, 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 1, 12, 13, 14, 15" />
+    <MESSAGE value="add, 2259" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 2259" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
