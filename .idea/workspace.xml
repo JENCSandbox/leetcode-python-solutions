@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 2124">
-      <change afterPath="$PROJECT_DIR$/1822 - Sign of the Product of an Array/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200 - Number of Islands/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2028 - Find Missing Observations/solution.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 200, 1822, 2028">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200 - Number of Islands/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/200 - Number of Islands/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -513,11 +511,18 @@
       <option name="project" value="LOCAL" />
       <updated>1716565836999</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add, 200, 1822, 2028">
+      <option name="closed" value="true" />
+      <created>1716779952395</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1716779952395</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add, solution 412 problem" />
     <MESSAGE value="Add, solution 1342 problem" />
     <MESSAGE value="Add, solution 383 problem" />
     <MESSAGE value="Add, solution for max consecutive ones problem" />
@@ -542,7 +547,8 @@
     <MESSAGE value="add, 2206" />
     <MESSAGE value="add, 2181" />
     <MESSAGE value="add, 2124" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 2124" />
+    <MESSAGE value="add, 200, 1822, 2028" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 200, 1822, 2028" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -550,11 +556,6 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/1342/example_1342.py</url>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/200 - Number of Islands/solution.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
