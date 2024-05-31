@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 49 solution 2">
-      <change afterPath="$PROJECT_DIR$/54 - Spiral Matrix/solution.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 33, 54">
+      <change afterPath="$PROJECT_DIR$/1304 - Find N Unique Integers Sum up to Zero/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Valid Parentheses/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,7 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (4)">
+  <component name="RunManager" selected="Python.solution (5)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -183,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2259 - Remove Digit From Number to Maximize Result" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1304 - Find N Unique Integers Sum up to Zero" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2259 - Remove Digit From Number to Maximize Result/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1304 - Find N Unique Integers Sum up to Zero/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -543,11 +544,18 @@
       <option name="project" value="LOCAL" />
       <updated>1716847871365</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="add, 33, 54">
+      <option name="closed" value="true" />
+      <created>1717181516136</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1717181516136</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add, solution for even digits counter" />
     <MESSAGE value="Add sample squares of a sorted array" />
     <MESSAGE value="Add, duplicate zeros example" />
     <MESSAGE value="Add, merge sorted array" />
@@ -572,7 +580,8 @@
     <MESSAGE value="add, 200" />
     <MESSAGE value="add, 49,151" />
     <MESSAGE value="add, 49 solution 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 49 solution 2" />
+    <MESSAGE value="add, 33, 54" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 33, 54" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
