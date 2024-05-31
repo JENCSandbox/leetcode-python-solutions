@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 49,151">
-      <change afterPath="$PROJECT_DIR$/49 - Group Anagrams/other_sol.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 49 solution 2">
+      <change afterPath="$PROJECT_DIR$/54 - Spiral Matrix/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +94,7 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (2)">
+  <component name="RunManager" selected="Python.solution (4)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -138,6 +139,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/54 - Spiral Matrix" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/54 - Spiral Matrix/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -147,33 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 - Two Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/33 - Search in Rotated Sorted Array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 - Two Sum/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leet-code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15 - 3Sum" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15 - 3Sum/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33 - Search in Rotated Sorted Array/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (4)" />
+        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
-        <item itemvalue="Python.solution (5)" />
-        <item itemvalue="Python.solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -534,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1716847582042</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add, 49 solution 2">
+      <option name="closed" value="true" />
+      <created>1716847871364</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1716847871365</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add, solution for max consecutive ones problem" />
     <MESSAGE value="Add, solution for even digits counter" />
     <MESSAGE value="Add sample squares of a sorted array" />
     <MESSAGE value="Add, duplicate zeros example" />
@@ -563,7 +571,8 @@
     <MESSAGE value="add, 200, 1822, 2028" />
     <MESSAGE value="add, 200" />
     <MESSAGE value="add, 49,151" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 49,151" />
+    <MESSAGE value="add, 49 solution 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 49 solution 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
