@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 33, 54">
-      <change afterPath="$PROJECT_DIR$/1304 - Find N Unique Integers Sum up to Zero/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 - Valid Parentheses/solution.py" afterDir="false" />
+    <list default="true" id="07263fc5-bb43-4912-a7af-59015ff5c7a9" name="Changes" comment="add, 20, 1304">
+      <change afterPath="$PROJECT_DIR$/297 - Serialize and Deserialize Binary Tree/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +94,7 @@
       <recent name="C:\Users\jnavarro\PycharmProjects\leet-code\1480" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.solution (5)">
+  <component name="RunManager" selected="Python.solution (1)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leet-code" />
       <option name="ENV_FILES" value="" />
@@ -105,33 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/297 - Serialize and Deserialize Binary Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2208 - Minimum Operations to Halve Array Sum/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leet-code" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/200 - Number of Islands" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/200 - Number of Islands/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/297 - Serialize and Deserialize Binary Tree/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,13 +183,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20 - Valid Parentheses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20 - Valid Parentheses/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
+        <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
-        <item itemvalue="Python.solution (2)" />
-        <item itemvalue="Python.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -552,11 +551,18 @@
       <option name="project" value="LOCAL" />
       <updated>1717181516136</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="add, 20, 1304">
+      <option name="closed" value="true" />
+      <created>1717188715363</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1717188715363</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add sample squares of a sorted array" />
     <MESSAGE value="Add, duplicate zeros example" />
     <MESSAGE value="Add, merge sorted array" />
     <MESSAGE value="Add, reorganize examples" />
@@ -581,7 +587,8 @@
     <MESSAGE value="add, 49,151" />
     <MESSAGE value="add, 49 solution 2" />
     <MESSAGE value="add, 33, 54" />
-    <option name="LAST_COMMIT_MESSAGE" value="add, 33, 54" />
+    <MESSAGE value="add, 20, 1304" />
+    <option name="LAST_COMMIT_MESSAGE" value="add, 20, 1304" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
